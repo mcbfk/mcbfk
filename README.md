@@ -107,20 +107,6 @@ Busco oportunidades para aplicar meu conhecimento híbrido em **desenvolvimento 
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbfk&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcbfk&theme=radical&layout=compact&custom_title=Tecnologias%20Mais%20Usadas&langs_count=9&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mcbfk&theme=radical&border_color=00D9FF&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
----
-
 ## 🌟 Perfil Resumido
 
 <div align="center">
