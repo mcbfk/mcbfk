@@ -80,15 +80,6 @@ Combino habilidades em desenvolvimento web com conhecimentos sólidos em redes, 
 
 **Tecnólogo em Segurança da Informação** - Senac (2024-2026)
 
-### 🏆 Certificações Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-✅ **Networking Basics**  
-✅ **Network Defense**  
-✅ **Cyber Threat Management**  
-✅ **Networking Devices and Initial Configuration**
-
 </div>
 
 ---
@@ -130,19 +121,5 @@ Busco oportunidades para aplicar meu conhecimento híbrido em **desenvolvimento 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcbfk)
 [![GitHub Followers](https://img.shields.io/github/followers/mcbfk?style=for-the-badge&logo=github&label=Followers&color=00D9FF)](https://github.com/mcbfk)
 [![GitHub Stars](https://img.shields.io/github/stars/mcbfk?style=for-the-badge&logo=github&label=Stars&color=00D9FF)](https://github.com/mcbfk)
-
----
-
-### ⚡ *"Código seguro é código que resiste ao tempo e às ameaças"* ⚡
-
-![Visitor Count](https://profile-counter.glitch.me/mcbfk/count.svg)
-
----
-
-<div align="center">
-
-**⭐ Se este perfil te interessou, deixe uma estrela! ⭐**
-
-</div>
 
 </div>
